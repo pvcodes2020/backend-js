@@ -5,6 +5,8 @@ import connectDB from "./db/dbconnection.js"
 dotenv.config({
     path:'./env'
 })
+
+
 // import express from "express"
 
 // const app= express()
